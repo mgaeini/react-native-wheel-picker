@@ -1,0 +1,32 @@
+{
+  "name": "@mgaeini/react-native-wheel-picker",
+  "version": "0.0.1",
+  "description": "React native cross platform picker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgaeini/react-native-wheel-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "picker",
+    "wheel"
+  ],
+  "author": "Mohsen Gaeini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgaeini/react-native-wheel-picker/issues"
+  },
+  "homepage": "https://github.com/mgaeini/react-native-wheel-picker#readme",
+  "peerDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^17.0",
+    "react-native": ">=0.64.0"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^1.16.1"
+  }
+}
